@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Win Sports">
+    <display-name lang="es">Win Sports</display-name>
+    <icon src="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5265a8f3af1ecb9d320000ee.png?c=20240403" />
+    <url>http://www.winsportsonline.com</url>
+  </channel>
+  <channel id="Win Sports +">
+    <display-name lang="es">Win Sports +</display-name>
+    <icon src="https://platform-static.cdn.mdstrm.com/player/logo/s-live-529cff6f6bd2ea6b610000e0.png?c=20240403" />
+    <url>http://www.winsportsonline.com</url>
+  </channel>
+  <programme start="20240403173000 +0000" stop="20240403180000 +0000" channel="Win Sports">
+    <title lang="es">Una Cancha Llamada Colombia</title>
+  </programme>
+  <programme start="20240403180000 +0000" stop="20240403200000 +0000" channel="Win Sports">
+    <title lang="es">Repetición Clasificado a Libertadores 2023: Medellín vs. Junior</title>
+  </programme>
+  <programme start="20240403200000 +0000" stop="20240403210000 +0000" channel="Win Sports">
+    <title lang="es">El Club de Todos</title>
+  </programme>
+  <programme start="20240403210000 +0000" stop="20240403230000 +0000" channel="Win Sports">
+    <title lang="es">Saque Largo</title>
+  </programme>
+  <programme start="20240403230000 +0000" stop="20240404003000 +0000" channel="Win Sports">
+    <title lang="es">Conexión</title>
+  </programme>
+  <programme start="20240404003000 +0000" stop="20240404023000 +0000" channel="Win Sports">
+    <title lang="es">Torneo BetPlay Dimayor 2024 - I:Leones vs. Orsomarso</title>
+  </programme>
+  <programme start="20240404023000 +0000" stop="20240404033000 +0000" channel="Win Sports">
+    <title lang="es">Última Jugada</title>
+  </programme>
+  <programme start="20240404033000 +0000" stop="20240404053000 +0000" channel="Win Sports">
+    <title lang="es">Chiringuito de Jugones (Solo para Colombia)</title>
+  </programme>
+  <programme start="20240404053000 +0000" stop="20240404130000 +0000" channel="Win Sports">
+    <title lang="es">Repetición Programación Win Sports</title>
+  </programme>
+  <programme start="20240404130000 +0000" stop="20240404160000 +0000" channel="Win Sports">
+    <title lang="es">Primer Toque</title>
+  </programme>
+  <programme start="20240404160000 +0000" stop="20240404173000 +0000" channel="Win Sports">
+    <title lang="es">Win Noticias</title>
+  </programme>
+  <programme start="20240404173000 +0000" stop="20240404193000 +0000" channel="Win Sports">
+    <title lang="es">Repetición Nacional vs. Medellín 2023</title>
+  </programme>
+  <programme start="20240404193000 +0000" stop="20240404210000 +0000" channel="Win Sports">
+    <title lang="es">Win Noticias</title>
+  </programme>
+  <programme start="20240404210000 +0000" stop="20240404230000 +0000" channel="Win Sports">
+    <title lang="es">Saque Largo</title>
+  </programme>
+  <programme start="20240404230000 +0000" stop="20240405003000 +0000" channel="Win Sports">
+    <title lang="es">Conexión</title>
+  </programme>
+  <programme start="20240405003000 +0000" stop="20240405010000 +0000" channel="Win Sports">
+    <title lang="es">Campañas</title>
+  </programme>
+  <programme start="20240405010000 +0000" stop="20240405020000 +0000" channel="Win Sports">
+    <title lang="es">Score Mundial</title>
+  </programme>
+  <programme start="20240405020000 +0000" stop="20240405030000 +0000" channel="Win Sports">
+    <title lang="es">Última Jugada</title>
+  </programme>
+  <programme start="20240405030000 +0000" stop="20240405050000 +0000" channel="Win Sports">
+    <title lang="es">Chiringuito de Jugones (Solo para Colombia)</title>
+  </programme>
+  <programme start="20240405050000 +0000" stop="20240405130000 +0000" channel="Win Sports">
+    <title lang="es">Repetición Programación Win Sports</title>
+  </programme>
+  <programme start="20240405130000 +0000" stop="20240405160000 +0000" channel="Win Sports">
+    <title lang="es">Primer Toque</title>
+  </programme>
+  <programme start="20240405160000 +0000" stop="20240405173000 +0000" channel="Win Sports">
+    <title lang="es">Win Noticias</title>
+  </programme>
+  <programme start="20240405173000 +0000" stop="20240405193000 +0000" channel="Win Sports">
+    <title lang="es">Repetición Torneo BetPlay Dimayor 2024 - I:Llaneros vs. Cúcuta</title>
+  </programme>
+  <programme start="20240405193000 +0000" stop="20240405203000 +0000" channel="Win Sports">
+    <title lang="es">Camino a Primera</title>
+  </programme>
+  <programme start="20240405203000 +0000" stop="20240405210000 +0000" channel="Win Sports">
+    <title lang="es">Previo FPC</title>
+  </programme>
+  <programme start="20240405210000 +0000" stop="20240405223000 +0000" channel="Win Sports">
+    <title lang="es">Saque Largo</title>
+  </programme>
+  <programme start="20240405223000 +0000" stop="20240405230000 +0000" channel="Win Sports">
+    <title lang="es">Previo FPC</title>
+  </programme>
+  <programme start="20240405230000 +0000" stop="20240406003000 +0000" channel="Win Sports">
+    <title lang="es">Conexión</title>
+  </programme>
+  <programme start="20240406003000 +0000" stop="20240406010000 +0000" channel="Win Sports">
+    <title lang="es">Previo FPC</title>
+  </programme>
+  <programme start="20240406010000 +0000" stop="20240406020000 +0000" channel="Win Sports">
+    <title lang="es">Campañas</title>
+  </programme>
+  <programme start="20240406020000 +0000" stop="20240406030000 +0000" channel="Win Sports">
+    <title lang="es">Última Jugada</title>
+  </programme>
+  <programme start="20240406030000 +0000" stop="20240406033000 +0000" channel="Win Sports">
+    <title lang="es">What The Fun</title>
+  </programme>
+  <programme start="20240406160000 +0000" stop="20240406170000 +0000" channel="Win Sports">
+    <title lang="es">Win Noticias</title>
+  </programme>
+  <programme start="20240406170000 +0000" stop="20240406190000 +0000" channel="Win Sports">
+    <title lang="es">Evento Gatorade 5 vs. 5</title>
+  </programme>
+  <programme start="20240406190000 +0000" stop="20240406210000 +0000" channel="Win Sports">
+    <title lang="es">Gran Previo Sabado FPC</title>
+  </programme>
+  <programme start="20240406210000 +0000" stop="20240406230000 +0000" channel="Win Sports">
+    <title lang="es">Liga BetPlay Dimayor 2024 - I: Águilas Doradas vs. Pasto</title>
+  </programme>
+  <programme start="20240406230000 +0000" stop="20240407010000 +0000" channel="Win Sports">
+    <title lang="es">Liga Femenina BetPlay Dimayor 2024 - I: Medellín vs. América</title>
+  </programme>
+  <programme start="20240403160000 +0000" stop="20240403180000 +0000" channel="Win Sports +">
+    <title lang="es">Repetición Liga BetPlay Dimayor 2024 - I: Santa Fe vs. Patriotas</title>
+  </programme>
+  <programme start="20240403180000 +0000" stop="20240403190000 +0000" channel="Win Sports +">
+    <title lang="es">De Colección</title>
+  </programme>
+  <programme start="20240403190000 +0000" stop="20240403210000 +0000" channel="Win Sports +">
+    <title lang="es">Repetición Liga BetPlay Dimayor 2024 - I: Alianza vs. Águilas Doradas</title>
+  </programme>
+  <programme start="20240403210000 +0000" stop="20240403220000 +0000" channel="Win Sports +">
+    <title lang="es">Detrás de la Gloria</title>
+  </programme>
+  <programme start="20240403220000 +0000" stop="20240403223000 +0000" channel="Win Sports +">
+    <title lang="es">Previo FPC</title>
+  </programme>
+  <programme start="20240403223000 +0000" stop="20240404003500 +0000" channel="Win Sports +">
+    <title lang="es">Torneo BetPlay Dimayor 2024 - I: Llaneros vs. Cúcuta</title>
+  </programme>
+  <programme start="20240404003500 +0000" stop="20240404023000 +0000" channel="Win Sports +">
+    <title lang="es">Torneo BetPlay Dimayor 2024 - I: Leones vs. Orsomarso</title>
+  </programme>
+  <programme start="20240404023000 +0000" stop="20240404033000 +0000" channel="Win Sports +">
+    <title lang="es">Win+ Noticias</title>
+  </programme>
+  <programme start="20240404033000 +0000" stop="20240404130000 +0000" channel="Win Sports +">
+    <title lang="es">Repetición Programación Win Sports+</title>
+  </programme>
+  <programme start="20240404130000 +0000" stop="20240404160000 +0000" channel="Win Sports +">
+    <title lang="es">Primer Toque</title>
+  </programme>
+  <programme start="20240404160000 +0000" stop="20240404180000 +0000" channel="Win Sports +">
+    <title lang="es">Repetición Liga BetPlay Dimayor 2024 - I: Junior vs. Equidad</title>
+  </programme>
+  <programme start="20240404180000 +0000" stop="20240404190000 +0000" channel="Win Sports +">
+    <title lang="es">De Colección</title>
+  </programme>
+  <programme start="20240404190000 +0000" stop="20240404210000 +0000" channel="Win Sports +">
+    <title lang="es">Repetición Torneo BetPlay Dimayor 2024 - I: Llaneros vs. Cúcuta</title>
+  </programme>
+  <programme start="20240404210000 +0000" stop="20240404220000 +0000" channel="Win Sports +">
+    <title lang="es">El Club de Todos</title>
+  </programme>
+  <programme start="20240404220000 +0000" stop="20240404230000 +0000" channel="Win Sports +">
+    <title lang="es">Previo FPC</title>
+  </programme>
+  <programme start="20240404230000 +0000" stop="20240405011000 +0000" channel="Win Sports +">
+    <title lang="es">Torneo BetPlay Dimayor 2024 - I: Real Cundinamarca vs. Unión Magdalena</title>
+  </programme>
+  <programme start="20240405011000 +0000" stop="20240405023000 +0000" channel="Win Sports +">
+    <title lang="es">Conexión</title>
+  </programme>
+  <programme start="20240405023000 +0000" stop="20240405033000 +0000" channel="Win Sports +">
+    <title lang="es">Win+ Noticias</title>
+  </programme>
+  <programme start="20240405033000 +0000" stop="20240405130000 +0000" channel="Win Sports +">
+    <title lang="es">Repetición Programación Win Sports+</title>
+  </programme>
+  <programme start="20240405130000 +0000" stop="20240405160000 +0000" channel="Win Sports +">
+    <title lang="es">Primer Toque</title>
+  </programme>
+  <programme start="20240405160000 +0000" stop="20240405180000 +0000" channel="Win Sports +">
+    <title lang="es">Repetición Torneo BetPlay Dimayor 2024 - I: Real Cundinamarca vs. Unión Magdalena</title>
+  </programme>
+  <programme start="20240405180000 +0000" stop="20240405190000 +0000" channel="Win Sports +">
+    <title lang="es">De Colección</title>
+  </programme>
+  <programme start="20240405190000 +0000" stop="20240405200000 +0000" channel="Win Sports +">
+    <title lang="es">Especial Win</title>
+  </programme>
+  <programme start="20240405200000 +0000" stop="20240405210000 +0000" channel="Win Sports +">
+    <title lang="es">Previo FPC</title>
+  </programme>
+  <programme start="20240405210000 +0000" stop="20240405230500 +0000" channel="Win Sports +">
+    <title lang="es">Liga BetPlay Dimayor 2024 - I: Envigado vs. Pereira</title>
+  </programme>
+  <programme start="20240405230500 +0000" stop="20240406011500 +0000" channel="Win Sports +">
+    <title lang="es">Liga BetPlay Dimayor 2024 - I: Nacional vs. Fortaleza</title>
+  </programme>
+  <programme start="20240406011500 +0000" stop="20240406034000 +0000" channel="Win Sports +">
+    <title lang="es">Liga BetPlay Dimayor 2024 - I: Once Caldas vs. Tolima</title>
+  </programme>
+  <programme start="20240406034000 +0000" stop="20240406040000 +0000" channel="Win Sports +">
+    <title lang="es">Win+ Noticias</title>
+  </programme>
+  <programme start="20240406190000 +0000" stop="20240406210000 +0000" channel="Win Sports +">
+    <title lang="es">Gran Previo Sábado FPC</title>
+  </programme>
+  <programme start="20240406210000 +0000" stop="20240406230500 +0000" channel="Win Sports +">
+    <title lang="es">Liga BetPlay Dimayor 2024 - I: Águilas Doradas vs. Pasto</title>
+  </programme>
+  <programme start="20240406230500 +0000" stop="20240407011500 +0000" channel="Win Sports +">
+    <title lang="es">Liga BetPlay Dimayor 2024 - Bucaramanga vs. Cali</title>
+  </programme>
+</tv>
